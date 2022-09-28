@@ -19,11 +19,10 @@
   "scripts": [
     "scripts/test.js"
   ]
-  "url": "https://github.com/gludington/conditional-visibility/",
-    "manifest": "https://github.com/gludington/conditional-visibility/releases/download/@tagVersion@/module.json",
-    "download": "https://github.com/gludington/conditional-visibility/releases/download/@tagVersion@/conditional-visibility-@tagVersion@.zip",
-    "changelog": "https://github.com/gludington/conditional-visibility/blob/master/CHANGELOG.md",
-    "readme": "https://github.com/gludington/conditional-visibility/blob/master/README.md",
+  "url": "https://github.com/Smithythe/Vision-Mechanics/",
+    "manifest": "https://github.com/Smithythe/Vision-Mechanics/blob/main/module.json",
+    "download": "https://github.com/Smithythe/Vision-Mechanics/archive/refs/tags/Beta.zip",
+    "readme": "https://github.com/Smithythe/Vision-Mechanics/blob/main/README.md",
     "license": "",
     "bugs": ""
 }
