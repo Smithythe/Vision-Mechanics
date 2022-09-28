@@ -23,6 +23,6 @@
     "manifest": "https://github.com/Smithythe/Vision-Mechanics/blob/main/module.json",
     "download": "https://github.com/Smithythe/Vision-Mechanics/archive/refs/tags/Beta.zip",
     "readme": "https://github.com/Smithythe/Vision-Mechanics/blob/main/README.md",
-    "license": "",
+    "license": "https://github.com/Smithythe/Vision-Mechanics/blob/main/LICENSE",
     "bugs": ""
 }
